@@ -1,6 +1,8 @@
 <div align="center">
 
-[![ANURIS](banner.png)](https://lianur.net)
+<a href="https://lianur.net">
+    <img src="banner.png" alt="ANURIS Banner" width="900">
+</a>
 
 # ANURIS
 
@@ -12,7 +14,7 @@ Automatic Face Censorship • Intelligent Watermarks • Photo Editor • Video 
 
 🌐 **Official Website**
 
-https://lianur.net
+**https://lianur.net**
 
 🇬🇧 **English** | 🇪🇸 *Español (coming soon)*
 
@@ -133,7 +135,7 @@ ANURIS includes integrated tools designed for content creators during live broad
 | [![](anuris_pantalla_principal.jpg)](anuris_pantalla_principal.jpg) | [![](anuris_editor_fotos.jpg)](anuris_editor_fotos.jpg) |
 
 | Video Editor | Live Tools |
-|---------------|------------|
+|--------------|------------|
 | [![](anuris_editor_videos.jpg)](anuris_editor_videos.jpg) | [![](anuris_herramientas_live.jpg)](anuris_herramientas_live.jpg) |
 
 </div>
@@ -148,11 +150,11 @@ https://lianur.net
 
 ### Windows
 
-https://lianur.net/anuris-windows.php
+➡️ https://lianur.net/anuris-windows.php
 
 ### Android
 
-https://lianur.net/anuris-android.php
+➡️ https://lianur.net/anuris-android.php
 
 ---
 
