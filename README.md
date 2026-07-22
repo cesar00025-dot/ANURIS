@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://lianur.net">
-    <img src="banner.png" alt="ANURIS Banner" width="900">
+    <img src="banner.png" alt="ANURIS Banner" width="850">
 </a>
 
 # ANURIS
