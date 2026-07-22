@@ -127,27 +127,13 @@ ANURIS includes integrated tools designed for content creators during live broad
 
 # Screenshots
 
-## Dashboard
+| Dashboard | Photo Editor |
+|------------|--------------|
+| ![](anuris_pantalla_principal.jpg) | ![](anuris_editor_fotos.jpg) |
 
-![Dashboard](anuris_pantalla_principal.jpg)
-
----
-
-## Photo Editor
-
-![Photo Editor](anuris_editor_fotos.jpg)
-
----
-
-## Video Editor
-
-![Video Editor](anuris_editor_videos.jpg)
-
----
-
-## Live Tools
-
-![Live Tools](anuris_herramientas_live.jpg)
+| Video Editor | Live Tools |
+|---------------|------------|
+| ![](anuris_editor_videos.jpg) | ![](anuris_herramientas_live.jpg) |
 
 # Download
 
