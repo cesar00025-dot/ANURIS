@@ -1,5 +1,7 @@
 <div align="center">
 
+[![ANURIS](banner.png)](https://lianur.net)
+
 # ANURIS
 
 ## Protect your identity before you publish.
@@ -8,15 +10,15 @@ Professional content protection software for **Windows** and **Android**.
 
 Automatic Face Censorship • Intelligent Watermarks • Photo Editor • Video Editor • Live Tools
 
-🌐 Official Website
+🌐 **Official Website**
 
 https://lianur.net
 
-🇬🇧 English | 🇪🇸 Español *(coming soon)*
+🇬🇧 **English** | 🇪🇸 *Español (coming soon)*
 
 ---
 
-Windows • Android • Flutter • OpenCV • FFmpeg
+**Windows • Android • Flutter • OpenCV • FFmpeg**
 
 </div>
 
@@ -26,9 +28,9 @@ Windows • Android • Flutter • OpenCV • FFmpeg
 
 ANURIS is professional multimedia software developed by **Lianur Systems** to help content creators protect their privacy before publishing photos or videos.
 
-Instead of using multiple applications, ANURIS combines face censorship, watermarking, photo editing, video editing and live content tools in a single solution.
+Instead of using multiple applications, ANURIS combines face censorship, intelligent watermarking, photo editing, video editing and live content tools into a single solution.
 
-Whether you want to protect your identity, personalize your content or reduce unauthorized sharing, ANURIS provides powerful tools designed for creators.
+Whether you want to protect your identity, personalize your content or reduce unauthorized sharing, ANURIS provides powerful tools designed for modern content creators.
 
 ---
 
@@ -39,9 +41,10 @@ Publishing content without protection may expose your identity or allow unauthor
 ANURIS helps you:
 
 - Protect your privacy.
-- Hide faces automatically or manually.
+- Automatically or manually censor faces.
 - Add intelligent watermarks.
-- Edit photos and videos before publishing.
+- Edit photos before publishing.
+- Edit videos professionally.
 - Organize live challenges using integrated tools.
 
 ---
@@ -50,16 +53,16 @@ ANURIS helps you:
 
 | Feature | Windows | Android |
 |---------|:-------:|:-------:|
-| Automatic face censorship | ✅ | ✅ |
-| Manual face censorship | ✅ | ✅ |
-| Adjustable pixelation | ✅ | ✅ |
-| Intelligent watermark | ✅ | ✅ |
+| Automatic Face Censorship | ✅ | ✅ |
+| Manual Face Censorship | ✅ | ✅ |
+| Adjustable Pixelation | ✅ | ✅ |
+| Intelligent Watermark | ✅ | ✅ |
 | AI Photo Enhancement | ✅ | ✅ |
 | Photo Editor | ✅ | ✅ |
 | Video Editor | ✅ | ✅ |
 | Multi-track Timeline | ✅ | ➖ |
 | Audio Effects | ✅ | ✅ |
-| Right-click Menu | ✅ | ❌ |
+| Right-click Context Menu | ✅ | ❌ |
 | Keyboard Shortcuts | ✅ | ❌ |
 | Live Tools | ✅ | ✅ |
 
@@ -67,12 +70,12 @@ ANURIS helps you:
 
 # Built for
 
-- Content creators
+- Content Creators
 - Streamers
 - Influencers
-- Online educators
-- Privacy protection
-- Social media publishing
+- Online Educators
+- Privacy Protection
+- Social Media Publishing
 
 ---
 
@@ -82,14 +85,14 @@ The Windows edition has been designed as a professional desktop application.
 
 Features include:
 
-- Multi-track timeline
+- Professional multi-track timeline
 - Right-click context menu
 - Keyboard shortcuts
 - Audio separation
-- Professional export
+- Professional exporting
 - Automatic face tracking
 - Intelligent watermark editor
-- Live tools
+- Integrated Live Tools
 
 ---
 
@@ -99,8 +102,9 @@ The Android edition allows creators to protect and edit content directly from th
 
 Features include:
 
-- Face censorship
-- Watermarks
+- Automatic face censorship
+- Manual face censorship
+- Intelligent watermarking
 - Photo editor
 - Video editor
 - Live tools
@@ -111,41 +115,42 @@ Features include:
 
 ANURIS includes integrated tools designed for content creators during live broadcasts.
 
-✔ Challenge Wheel
-
-✔ Giveaway Manager
-
-✔ Dice
-
-✔ Countdown Timer
-
-✔ Hangman
-
-✔ Mystery Box
+- ✔ Challenge Wheel
+- ✔ Giveaway Manager
+- ✔ Dice
+- ✔ Countdown Timer
+- ✔ Hangman
+- ✔ Mystery Box
 
 ---
 
 # Screenshots
 
+<div align="center">
+
 | Dashboard | Photo Editor |
 |------------|--------------|
-| ![](anuris_pantalla_principal.jpg) | ![](anuris_editor_fotos.jpg) |
+| [![](anuris_pantalla_principal.jpg)](anuris_pantalla_principal.jpg) | [![](anuris_editor_fotos.jpg)](anuris_editor_fotos.jpg) |
 
 | Video Editor | Live Tools |
 |---------------|------------|
-| ![](anuris_editor_videos.jpg) | ![](anuris_herramientas_live.jpg) |
+| [![](anuris_editor_videos.jpg)](anuris_editor_videos.jpg) | [![](anuris_herramientas_live.jpg)](anuris_herramientas_live.jpg) |
+
+</div>
+
+---
 
 # Download
 
-Official website
+🌐 **Official Website**
 
 https://lianur.net
 
-Windows
+### Windows
 
 https://lianur.net/anuris-windows.php
 
-Android
+### Android
 
 https://lianur.net/anuris-android.php
 
@@ -153,23 +158,23 @@ https://lianur.net/anuris-android.php
 
 # Roadmap
 
-Completed
+## Completed
 
-- Automatic face censorship
-- Manual face censorship
-- Intelligent watermark
-- Windows edition
-- Android edition
-- Photo editor
-- Video editor
-- Live tools
+- ✔ Automatic Face Censorship
+- ✔ Manual Face Censorship
+- ✔ Intelligent Watermark
+- ✔ Windows Edition
+- ✔ Android Edition
+- ✔ Photo Editor
+- ✔ Video Editor
+- ✔ Live Tools
 
-Coming soon
+## Coming Soon
 
-- Face selection before censorship
-- AI improvements
-- Additional export formats
-- More editing tools
+- Smart Face Selection
+- AI Improvements
+- Additional Export Formats
+- More Editing Tools
 
 ---
 
@@ -179,7 +184,9 @@ Coming soon
 
 Yes.
 
-ANURIS can automatically detect and censor faces in both photos and videos.
+ANURIS automatically detects and censors faces in both photos and videos.
+
+---
 
 ### Does ANURIS support manual censorship?
 
@@ -187,11 +194,15 @@ Yes.
 
 You can manually censor any area of a photo or video.
 
+---
+
 ### Can I add custom watermarks?
 
 Yes.
 
-ANURIS supports customizable text watermarks that can include names, aliases, IDs or any other information.
+ANURIS supports customizable text watermarks containing names, aliases, IDs or any custom information.
+
+---
 
 ### Is ANURIS available for Windows?
 
@@ -203,7 +214,7 @@ ANURIS includes a professional Windows edition specifically designed for desktop
 
 # Documentation
 
-Official documentation is available on:
+Official documentation is available at:
 
 https://lianur.net
 
@@ -213,13 +224,13 @@ https://lianur.net
 
 ANURIS is proprietary commercial software developed by **Lianur Systems**.
 
-The source code is not publicly available.
+The source code is **not publicly available**.
 
 ---
 
 # Support
 
-Official website
+For technical support, licensing or commercial inquiries, visit:
 
 https://lianur.net
 
@@ -229,8 +240,12 @@ https://lianur.net
 
 ## Developed by Lianur Systems
 
-https://lianur.net
+### https://lianur.net
 
-Protect before you publish.
+**Protect your identity before you publish.**
+
+---
+
+© 2026 Lianur Systems. All rights reserved.
 
 </div>
